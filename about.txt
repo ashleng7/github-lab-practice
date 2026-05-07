@@ -1,3 +1,9 @@
+<<<<<<< feature-partner
+I am an IT student at ASCOT specializing in full-stack development. collaborated by ashleng7
+
+Partner: ashleng7 contribution
+=======
 I am an IT student at ASCOT specializing in full-stack development.
 Student B: ashleng7 has contributed to this lab.
 Partner: ashleng7
+>>>>>>> main
